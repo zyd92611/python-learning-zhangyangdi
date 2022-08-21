@@ -8,3 +8,6 @@
 
 # IDE (文本編輯器) 
 - sublime
+
+# Execute Python
+- python3 <filename>
