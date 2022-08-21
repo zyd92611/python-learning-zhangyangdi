@@ -22,9 +22,16 @@ var1 = int(var1)
 
 # True, False
 
-while var1 <= 1000:
-	print("var1")
-	break
+#input1
+
+# num1, num2:
+# when num2 > num1 break
+while True:
+	# num2 = input2
+	if "":
+		break
+	else:
+
 
 
 

@@ -26,7 +26,5 @@ float_ = 3.14159
 # 	print("apple")
 
 i = 0
-while i < 1000:
-	print(i)
-	# i *= 2
-	i = i + 1
+while True : #condition
+	
