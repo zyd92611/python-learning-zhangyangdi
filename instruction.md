@@ -10,4 +10,4 @@
 - sublime
 
 # Execute Python
-- python3 <filename>
+- python3 {filename}
