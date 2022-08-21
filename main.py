@@ -1,7 +1,3 @@
-# Tell pyhthon not to read
-
-# lesson 1: in & out
-# print("Hello world")
 
 # # lesson 2: if & else
 # var = input("Input: ")
